@@ -1,0 +1,17 @@
+﻿<Styles xmlns="https://github.com/avaloniaui">
+  <Styles.Resources>
+    <ResourceDictionary>
+      <ResourceDictionary.MergedDictionaries>
+        <ResourceInclude Source="/Themes/Simple/Base.xaml" />
+        <ResourceInclude Source="/TextEditor.xaml" />
+        <ResourceInclude Source="/Editing/TextArea.xaml" />
+        <ResourceInclude Source="/CodeCompletion/CompletionList.xaml" />
+        <ResourceInclude Source="/CodeCompletion/InsightWindow.xaml" />
+        <ResourceInclude Source="/Search/SearchPanel.xaml" />
+      </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
+  </Styles.Resources>
+
+  <StyleInclude Source="/CodeCompletion/CompletionWindow.xaml" />
+  <StyleInclude Source="/Rendering/VisualLineDrawingVisual.xaml" />
+</Styles>

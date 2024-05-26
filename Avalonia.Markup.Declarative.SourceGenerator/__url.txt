@@ -1,0 +1,5 @@
+
+As of 24/4/2024, there is no nuget yet.
+But Github's readme says "There will be Nuget package available later."
+
+https://github.com/AvaloniaUI/Avalonia.Markup.Declarative

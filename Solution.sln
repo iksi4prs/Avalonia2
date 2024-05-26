@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avalonia.Markup.Declarative", "Avalonia.Markup.Declarative\Avalonia.Markup.Declarative.csproj", "{58B7A0BB-F4C5-43EE-83C2-0B49F5AB855F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avalonia.Markup.Declarative.SourceGenerator", "Avalonia.Markup.Declarative.SourceGenerator\Avalonia.Markup.Declarative.SourceGenerator.csproj", "{F56E518E-05EE-403F-9653-5E2B3BB0BDAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaEdit", "AvaloniaEdit\AvaloniaEdit.csproj", "{C663A058-53F2-43FC-A77E-727644EE5193}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaEdit.TextMate", "AvaloniaEdit.TextMate\AvaloniaEdit.TextMate.csproj", "{309AAA51-7CA7-46B5-99BB-6BBB36A4A0C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleMarkupDeclarative", "ExampleMarkupDeclarative\ExampleMarkupDeclarative.csproj", "{82ABC273-E399-4EA7-A244-A0320ECAD072}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleXaml", "ExampleXaml\ExampleXaml.csproj", "{42CC1631-ACDB-4AF5-9E40-5BAC8BDC8E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B7A0BB-F4C5-43EE-83C2-0B49F5AB855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B7A0BB-F4C5-43EE-83C2-0B49F5AB855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B7A0BB-F4C5-43EE-83C2-0B49F5AB855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B7A0BB-F4C5-43EE-83C2-0B49F5AB855F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56E518E-05EE-403F-9653-5E2B3BB0BDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56E518E-05EE-403F-9653-5E2B3BB0BDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56E518E-05EE-403F-9653-5E2B3BB0BDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56E518E-05EE-403F-9653-5E2B3BB0BDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C663A058-53F2-43FC-A77E-727644EE5193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C663A058-53F2-43FC-A77E-727644EE5193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C663A058-53F2-43FC-A77E-727644EE5193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C663A058-53F2-43FC-A77E-727644EE5193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309AAA51-7CA7-46B5-99BB-6BBB36A4A0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309AAA51-7CA7-46B5-99BB-6BBB36A4A0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309AAA51-7CA7-46B5-99BB-6BBB36A4A0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309AAA51-7CA7-46B5-99BB-6BBB36A4A0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82ABC273-E399-4EA7-A244-A0320ECAD072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82ABC273-E399-4EA7-A244-A0320ECAD072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82ABC273-E399-4EA7-A244-A0320ECAD072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82ABC273-E399-4EA7-A244-A0320ECAD072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CC1631-ACDB-4AF5-9E40-5BAC8BDC8E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CC1631-ACDB-4AF5-9E40-5BAC8BDC8E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CC1631-ACDB-4AF5-9E40-5BAC8BDC8E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CC1631-ACDB-4AF5-9E40-5BAC8BDC8E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E61C4D3-E1F0-45AA-8A2E-726724436660}
+	EndGlobalSection
+EndGlobal
